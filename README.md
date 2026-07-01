@@ -2,10 +2,6 @@ Hi, I'm José Miguel Aragón Ríos
 
 Senior Cloud & Database Architect | Multicloud | DevOps | Data Platforms | AI Integrations
 
-Show Image
-Show Image
-
-</div>
 With 25+ years of IT experience, I specialize in building, modernizing, and scaling mission-critical platforms across Azure, AWS, OCI, and GCP. I've led high-impact cloud migrations, database transformations, DevOps implementations, and performance engineering initiatives for telecom, fintech, retail, and enterprise clients.
 
 More recently, I've been applying that same architecture discipline to AI-driven automation — building agentic workflows, LLM integrations, and voice/chat AI systems for real businesses through my own practice, FlowIA Studio.
