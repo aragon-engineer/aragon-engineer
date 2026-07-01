@@ -1,4 +1,4 @@
-# Hi, I'm José Miguel Aragón Ríos 👋
+# Hi, I'm José Miguel Aragón Ríos 
 
 ### Senior Cloud & Database Architect | Multicloud | DevOps | Data Platforms | AI Integrations
 
@@ -13,7 +13,7 @@ I solve complex problems with clarity, architecture discipline, and a "get-thing
 
 ---
 
-### 🛠️ Core Expertise
+### Core Expertise
 
 - **Cloud Architecture** — Azure, AWS, OCI, GCP
 - **Database Engineering** — PostgreSQL, Oracle RAC/Data Guard, SQL Server, MySQL
@@ -23,16 +23,16 @@ I solve complex problems with clarity, architecture discipline, and a "get-thing
 - **Security, Governance & Compliance**
 - **Performance & Cost Optimization**
 
-### 📌 Featured Projects
+### Featured Projects
 
-- 🤖 [**enterprise-ai-candidate-intelligence**](https://github.com/aragon-engineer/enterprise-ai-candidate-intelligence) — AI orchestration platform automating candidate intelligence workflows using LLMs and enterprise integrations.
-- 🧩 [**ai-agent-wp-demo**](https://github.com/aragon-engineer/ai-agent-wp-demo) — Production-style AI agent demo integrating a FastAPI backend with a WordPress frontend; authentication, agent workflow, and real-world integration trade-offs.
-- ☁️ [**aragon-aks-enterprise-architecture**](https://github.com/aragon-engineer/aragon-aks-enterprise-architecture) — Enterprise-grade AKS architecture patterns on Azure.
-- 📘 [**cloud-ai-architect-handbook**](https://github.com/aragon-engineer/cloud-ai-architect-handbook) — Curated resource map for multi-cloud architecture and AI-driven operations.
+- [**enterprise-ai-candidate-intelligence**](https://github.com/aragon-engineer/enterprise-ai-candidate-intelligence) — AI orchestration platform automating candidate intelligence workflows using LLMs and enterprise integrations.
+- [**ai-agent-wp-demo**](https://github.com/aragon-engineer/ai-agent-wp-demo) — Production-style AI agent demo integrating a FastAPI backend with a WordPress frontend; authentication, agent workflow, and real-world integration trade-offs.
+- [**aragon-aks-enterprise-architecture**](https://github.com/aragon-engineer/aragon-aks-enterprise-architecture) — Enterprise-grade AKS architecture patterns on Azure.
+- [**cloud-ai-architect-handbook**](https://github.com/aragon-engineer/cloud-ai-architect-handbook) — Curated resource map for multi-cloud architecture and AI-driven operations.
 
 *Building out reusable IaC modules and DevOps pipeline blueprints — more repos coming as they're production-ready.*
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Cloud:** Azure · AWS · OCI · GCP
 **Databases:** PostgreSQL · Oracle 8i–23c · SQL Server · MySQL
@@ -43,10 +43,10 @@ I solve complex problems with clarity, architecture discipline, and a "get-thing
 
 ---
 
-### 📫 Connect
+### Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jose-miguel-aragon-r-a966531a7)
-- 🌐 [Portfolio](https://www.rocket.new/69161310f2850600146e6df4?type=2&f=NLC_NEXT_JS)
+- [LinkedIn](https://www.linkedin.com/in/jose-miguel-aragon-r-a966531a7)
+- [Portfolio](https://www.rocket.new/69161310f2850600146e6df4?type=2&f=NLC_NEXT_JS)
 
 Open to new opportunities, collaborations, and architect-level discussions. Feel free to explore, fork, or star any repo you find useful.
 
