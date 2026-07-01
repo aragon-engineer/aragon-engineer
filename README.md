@@ -1,66 +1,59 @@
-#Hi, I'm **José Aragón**
-### Senior Cloud & Database Architect | Multicloud | DevOps | Data Platforms | AI Integrations
+Hi, I'm José Miguel Aragón Ríos 
 
-With **24+ years of IT experience**, I specialize in building, modernizing, and scaling mission-critical platforms across **Azure, AWS, OCI, GCP**, and enterprise environments. I’ve led high-impact cloud migrations, database transformations, DevOps implementations, and performance engineering initiatives for major telecom, fintech, retail, and global enterprise clients.
+Senior Cloud & Database Architect | Multicloud | DevOps | Data Platforms | AI Integrations
 
-I solve complex problems with clarity, architecture discipline, and a “get-things-done” mindset.
+Show Image
+Show Image
 
----
+</div>
+With 25+ years of IT experience, I specialize in building, modernizing, and scaling mission-critical platforms across Azure, AWS, OCI, and GCP. I've led high-impact cloud migrations, database transformations, DevOps implementations, and performance engineering initiatives for telecom, fintech, retail, and enterprise clients.
 
-## **Core Expertise**
-- **Cloud Architecture (Azure, AWS, OCI, GCP)**
-- **Database Engineering** — PostgreSQL, Oracle RAC/Data Guard, SQL Server, MySQL  
-- **DevOps & Automation** — Azure DevOps, GitHub Actions, Terraform, ARM/Bicep  
-- **Data Engineering** — Databricks, Unity Catalog, Lakehouse (Bronze/Silver/Gold)  
-- **Security, Governance & Compliance**
-- **Performance & Cost Optimization**
-- **AI & LLM Integrations for automation and observability**  
+More recently, I've been applying that same architecture discipline to AI-driven automation — building agentic workflows, LLM integrations, and voice/chat AI systems for real businesses through my own practice, FlowIA Studio.
 
----
+I solve complex problems with clarity, architecture discipline, and a "get-things-done" mindset.
 
-## Featured Projects (Professional-Grade)
-Below are curated repositories that highlight my experience:
 
-### **Cloud Architecture Templates (IaC)**
-Reusable foundations for AKS, networking, databases, VNets, and enterprise landing zones.  
-*Repo coming soon*
+🛠️ Core Expertise
 
-### **DevOps Pipelines & CI/CD Blueprints**
-Azure DevOps YAML pipelines, GitHub Actions, release strategies, GitOps/ArgoCD patterns.  
-*Repo coming soon*
 
-### **Databricks Lakehouse MVP**
-Unity Catalog, Bronze/Silver/Gold pipelines, ingestion notebooks, automated jobs.  
-*Repo coming soon*
+Cloud Architecture — Azure, AWS, OCI, GCP
+Database Engineering — PostgreSQL, Oracle RAC/Data Guard, SQL Server, MySQL
+DevOps & Automation — Azure DevOps, GitHub Actions, Terraform, ARM/Bicep
+Data Engineering — Databricks, Unity Catalog, Lakehouse (Bronze/Silver/Gold)
+AI & LLM Integrations — agentic workflows, n8n orchestration, voice AI, automation for operations
+Security, Governance & Compliance
+Performance & Cost Optimization
 
-### **Oracle RAC / Data Guard Engineering Toolkit**
-Data Guard broker, RMAN scripts, failover, backup optimization, troubleshooting kits.  
-*Repo coming soon*
 
-### **PostgreSQL Migration & Optimization Toolkit**
-Migration scripts, roles & permissions automation, tuning, high-availability patterns.  
-*Repo coming soon*
+Featured Projects
 
----
 
-## My Tech Stack
+🤖 enterprise-ai-candidate-intelligence — AI orchestration platform automating candidate intelligence workflows using LLMs and enterprise integrations.
+🧩 ai-agent-wp-demo — Production-style AI agent demo integrating a FastAPI backend with a WordPress frontend; authentication, agent workflow, and real-world integration trade-offs.
+☁️ aragon-aks-enterprise-architecture — Enterprise-grade AKS architecture patterns on Azure.
+📘 cloud-ai-architect-handbook — Curated resource map for multi-cloud architecture and AI-driven operations.
 
-### **Cloud**
-`Azure` · `AWS` · `OCI` · `GCP`
 
-### **Databases**
-`PostgreSQL` · `Oracle 8i–23c` · `SQL Server` · `MySQL`
+Building out reusable IaC modules and DevOps pipeline blueprints — more repos coming as they're production-ready.
 
-### **DevOps & IaC**
-`Terraform` · `Azure DevOps` · `GitHub Actions` · `Kubernetes / AKS` · `Bicep` · `ARM`
+💻 Tech Stack
 
-### Data & Analytics
-`Databricks` · `Delta Lake` · `Unity Catalog` · `PySpark` · `ETL/ELT`
+Cloud: Azure · AWS · OCI · GCP
+Databases: PostgreSQL · Oracle 8i–23c · SQL Server · MySQL
+DevOps & IaC: Terraform · Azure DevOps · GitHub Actions · Kubernetes/AKS · Bicep · ARM
+Data & Analytics: Databricks · Delta Lake · Unity Catalog · PySpark · ETL/ELT
+AI & Automation: n8n · Claude API · MCP · LLM orchestration
+Languages & Tools: Python · Bash · PowerShell · YAML · Docker
 
-### Languages & Tools
-`Python` · `Bash` · `PowerShell` · `YAML` · `Docker`
 
----
+📫 Connect
+
+
+💼 LinkedIn
+🌐 Portfolio
+
+
+Open to new opportunities, collaborations, and architect-level discussions. Feel free to explore, fork, or star any repo you find useful.
 
 ## Connect With Me
 
