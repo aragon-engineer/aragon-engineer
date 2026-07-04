@@ -3,7 +3,7 @@
 ### Senior Cloud & Database Architect | Multicloud | DevOps | Data Platforms | AI Integrations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jose-miguel-aragon-r-a966531a7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-6dd5fa?style=flat)](https://www.rocket.new/69161310f2850600146e6df4?type=2&f=NLC_NEXT_JS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-6dd5fa?style=flat)](https://flowia-studio.lovable.app)
 
 With 25+ years of IT experience, I specialize in building, modernizing, and scaling mission-critical platforms across **Azure, AWS, OCI, and GCP**. I've led high-impact cloud migrations, database transformations, DevOps implementations, and performance engineering initiatives for telecom, fintech, retail, and enterprise clients.
 
@@ -25,6 +25,7 @@ I solve complex problems with clarity, architecture discipline, and a "get-thing
 
 ### Featured Projects
 
+- [enterprise-rag-platform](https://github.com/aragon-engineer/enterprise-rag-platform) — Production-grade, provider-agnostic RAG platform: multi-cloud LLM gateway (Claude on Vertex AI · Azure OpenAI), hybrid SQL + pgvector retrieval, security-by-design guardrails, full IaC (Terraform) & OIDC-based CI/CD.
 - [**enterprise-ai-candidate-intelligence**](https://github.com/aragon-engineer/enterprise-ai-candidate-intelligence) — AI orchestration platform automating candidate intelligence workflows using LLMs and enterprise integrations.
 - [**ai-agent-wp-demo**](https://github.com/aragon-engineer/ai-agent-wp-demo) — Production-style AI agent demo integrating a FastAPI backend with a WordPress frontend; authentication, agent workflow, and real-world integration trade-offs.
 - [**aragon-aks-enterprise-architecture**](https://github.com/aragon-engineer/aragon-aks-enterprise-architecture) — Enterprise-grade AKS architecture patterns on Azure.
@@ -46,7 +47,7 @@ I solve complex problems with clarity, architecture discipline, and a "get-thing
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/jose-miguel-aragon-r-a966531a7)
-- [Portfolio](https://www.rocket.new/69161310f2850600146e6df4?type=2&f=NLC_NEXT_JS)
+- [Portfolio](https://flowia-studio.lovable.app)
 
 Open to new opportunities, collaborations, and architect-level discussions. Feel free to explore, fork, or star any repo you find useful.
 
